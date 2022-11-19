@@ -31,7 +31,7 @@
     "sequelize": "^5.21.2",
     "socket.io": "*",
     "style-loader": "*",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.12"
   },
   "devDependencies": {
     "css-loader": "*",
